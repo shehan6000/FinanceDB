@@ -185,10 +185,8 @@ financedb/
 ├── scripts/
 │   ├── 01_download_and_process.py
 │   └── 02_ingest_to_storage.py
-├── configs/patterns.yaml
+├── configs
 ├── data/{raw,processed}/
-├── docs/                     # generated plots and reports
-└── requirements.txt
 ```
 
 ## How the Query Optimizer Routes Work
